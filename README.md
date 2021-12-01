@@ -37,6 +37,13 @@ A collaborative curated list of amazingly awesome Zabbix templates, scripts and 
 - [docker-zabbix](https://github.com/berngp/docker-zabbix) Docker Container running a Zabbix Server and Zabbix Web UI. 
 - [kubernetes-zabbix](https://github.com/monitoringartist/kubernetes-zabbix) Zabbix on Kubernetes 
 
+## Automation
+- [Ansible community.zabbix](https://github.com/ansible-collections/community.zabbix)
+
+## Tutorials / Videos
+- [YouTube Zabbix Official](https://www.youtube.com/c/zabbix)
+- [YouTube Dmitry Lambert](https://www.youtube.com/c/ZabbixCookBook)
+
 ## Notifiers
 
 ## License
